@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:Roma,
 http://2206.janjuaplayer.com:8088/live/sportfoot/playlist.m3u8?id=77405&wowzasessionid=244949689&pk=30271f98ca4af07309a6d291a2b62408795e3bfd93361ec18be2013c3911833c
-#EXTINF:Milan1,
-media_388.ts?id=77406&wowzasessionid=3972127474&pk=30271f98ca4af07309a6d291a2b62408795e3bfd93361ec18be2013c3911833c
-#EXTINF:Milan2,
-media_389.ts?id=77406&wowzasessionid=3972127474&pk=30271f98ca4af07309a6d291a2b62408795e3bfd93361ec18be2013c3911833c
-#EXTINF:Milan3,
-media_390.ts?id=77406&wowzasessionid=3972127474&pk=30271f98ca4af07309a6d291a2b62408795e3bfd93361ec18be2013c3911833c
+#EXTINF:Milan,
+http://2222.janjuaplayer.com:8088/live/sport1foot/playlist.m3u8?id=77406&wowzasessionid=313354274&pk=30271f98ca4af07309a6d291a2b62408795e3bfd93361ec18be2013c3911833c
