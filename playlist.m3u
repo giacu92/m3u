@@ -10,3 +10,10 @@ acestream://e5f2362496006661148d90f7d7f7114c56b1cf8f [HD] [MATCH! FUTBOL 2] [RU]
 
 #EXTINF:0,Spal - Milan ace3_ru,
 acestream://73d02e9645b577e56ab0940bb321ead30b813d61 [520P] [MATCH! FUTBOL 2] [RU]
+
+#EXTINF:6, Napoli - Lazio 1
+media_65.ts?id=77407&wowzasessionid=3238505057&pk=373dea23cf5b715f57c80d82a00fa48fbb11a8e5878cfb2c75206218a9c1bf20
+#EXTINF:11, Napoli - Lazio 2
+media_66.ts?id=77407&wowzasessionid=3238505057&pk=373dea23cf5b715f57c80d82a00fa48fbb11a8e5878cfb2c75206218a9c1bf20
+#EXTINF:13, Napoli - Lazio 3
+media_67.ts?id=77407&wowzasessionid=3238505057&pk=373dea23cf5b715f57c80d82a00fa48fbb11a8e5878cfb2c75206218a9c1bf20
