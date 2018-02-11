@@ -2,14 +2,5 @@
 #EXTINF:Spal - Milan,
 http://2201.janjuaplayer.com:8088/live/sportfoot/playlist.m3u8?id=77405&wowzasessionid=3692244615&pk=30271f98ca4af07309a6d291a2b62408795e3bfd93361ec18be2013c3911833c
 
-#EXTINF:0,Spal - Milan ace1_es,
-acestream://aed7c6a05565d8f8a57c0e6f101a04fb89743253 [520P] [BEIN SPORTS] [ES]
-
-#EXTINF:0,Spal - Milan ace2_ru,
-acestream://e5f2362496006661148d90f7d7f7114c56b1cf8f [HD] [MATCH! FUTBOL 2] [RU]
-
-#EXTINF:0,Spal - Milan ace3_ru,
-acestream://73d02e9645b577e56ab0940bb321ead30b813d61 [520P] [MATCH! FUTBOL 2] [RU]
-
-#EXTINF:6, Napoli - Lazio 1
-http://2202.janjuaplayer.com:8088/live/sport2foot/playlist.m3u8?id=77407&wowzasessionid=3238505057&pk=373dea23cf5b715f57c80d82a00fa48fbb11a8e5878cfb2c75206218a9c1bf20
+#EXTINF:0,Roma - Benevento SKY Calcio 1,
+http://cdn.whostreams.net:8081/wsedge/704y6unzur7u0/chunks.m3u8?nimblesessionid=35744947&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDE4IDg6MTQ6NTkgUE0maGFzaF92YWx1ZT1odGFXSHBpaDlKZStTS244b240MGxRPT0mdmFsaWRtaW51dGVzPTIw
