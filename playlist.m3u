@@ -4,4 +4,10 @@ http://local-set.ddns.net/hls/premium-hq/index.m3u8
 #EXTINF:Juve - Tottenham SD,
 http://local-set.ddns.net/hls/premium-sd/index.m3u8
 #EXTINF:Juve - Tottenham 3,
-http://cdn.whostreams.net:8081/wsedge/eynmidao/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDE4IDc6MzQ6NTAgUE0maGFzaF92YWx1ZT04U0xnMFYySjlZamtuaVFHM0Y1Uit3PT0mdmFsaWRtaW51dGVzPTIw
+http://cdn.whostreams.net:8081/wsedge/eynmidao/playlist.m3u8?
+#EXTINF:Juve - Tottenham ACE1,
+acestream://a8dd44f41ad19d0c7ed1d8922ac7b40277e46ae1
+#EXTINF:Juve - Tottenham ACE2,
+acestream://aed7c6a05565d8f8a57c0e6f101a04fb89743253
+#EXTINF:Juve - Tottenham ACE3,
+acestream://29344c399e106241c307bb39de297c422643d63b
