@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:Spal - Milan,
-http://2201.janjuaplayer.com:8088/live/sportfoot/playlist.m3u8?id=77405&wowzasessionid=3692244615&pk=30271f98ca4af07309a6d291a2b62408795e3bfd93361ec18be2013c3911833c
-
-#EXTINF:0,Roma - Benevento SKY Calcio 1,
-http://cdn.whostreams.net:8081/wsedge/704y6unzur7u0/chunks.m3u8?nimblesessionid=35744947&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDE4IDg6MTQ6NTkgUE0maGFzaF92YWx1ZT1odGFXSHBpaDlKZStTS244b240MGxRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:Juve - Tottenham,
+http://local-set.ddns.net/hls/premium-hq/index.m3u8
+#EXTINF:Juve - Tottenham SD,
+http://local-set.ddns.net/hls/premium-sd/index.m3u8
+#EXTINF:Juve - Tottenham 3,
+http://cdn.whostreams.net:8081/wsedge/eynmidao/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDE4IDc6MzQ6NTAgUE0maGFzaF92YWx1ZT04U0xnMFYySjlZamtuaVFHM0Y1Uit3PT0mdmFsaWRtaW51dGVzPTIw
