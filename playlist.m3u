@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:F1 Baku,
 http://2222.janjuaplayer.com:8088/live/campionato5/playlist.m3u8?id=79089&wowzasessionid=461667073&pk=d0a928354c4cdd90cdcdc75dbd2d889489aa2da447163b364fa0109ce8000b61
-#EXTINF:10,
-media_853.ts?id=79089&wowzasessionid=575587886&pk=d0a928354c4cdd90cdcdc75dbd2d889489aa2da447163b364fa0109ce8000b61
-#EXTINF:10,
-media_854.ts?id=79089&wowzasessionid=575587886&pk=d0a928354c4cdd90cdcdc75dbd2d889489aa2da447163b364fa0109ce8000b61
-#EXTINF:13,
-media_855.ts?id=79089&wowzasessionid=575587886&pk=d0a928354c4cdd90cdcdc75dbd2d889489aa2da447163b364fa0109ce8000b61
+#EXTINF:JUVE INTER,
+http://2213.janjuaplayer.com:8088/live/campionato4/playlist.m3u8?id=79085&wowzasessionid=3193580000&pk=d0a928354c4cdd90cdcdc75dbd2d889489aa2da447163b364fa0109ce8000b61
