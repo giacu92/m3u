@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:Milan,
-http://2203.janjuaplayer.com:8088/live/campionato1/playlist.m3u8?id=79079&wowzasessionid=3283606094&pk=d3af2683656259823a20924bcf6359ba40561b804aebf0cca458a809897bd349
+
+#EXTINF:F1-Monaco,
+http://2232.janjuaplayer.com:8088/live/campionato1/playlist.m3u8?id=79079&wowzasessionid=3016569421&pk=cdc347fd991ca07bc2bd8238998c5a0097ee6cbb2ec3a465f095d8092ed3942d
